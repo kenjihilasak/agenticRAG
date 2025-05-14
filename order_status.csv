@@ -1,0 +1,6 @@
+order_id,status,timestamp,details
+12345,placed,2025-04-01T10:12:00,"item: Widget A, qty 2"
+12345,in_progress,2025-04-02T08:45:00,shipped to courier
+12345,delivered,2025-04-05T15:30:00,delivered at front door
+67890,placed,2025-04-10T12:00:00,"item: Widget B, qty 1"
+67890,cancelled,2025-04-11T09:20:00,customer refund issued
